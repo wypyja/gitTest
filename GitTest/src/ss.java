@@ -4,6 +4,7 @@ public class ss {
 		System.out.println();
 		System.out.println();
 		System.out.println();
+		System.out.println("2");
 		System.out.println();
 		System.out.println();
 	}
